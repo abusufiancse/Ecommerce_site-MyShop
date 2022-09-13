@@ -1,0 +1,171 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.brand
+{
+    color: #025262 !important;
+    font-size: 25px;
+    font-family: "Jokerman Regular", cursive;
+    font-weight: 900;
+    text-shadow: 5px 3px 9px #1bd1ff;
+    margin: 0;
+    padding: 0;
+}
+.catList
+{
+
+    text-decoration: none;
+    color: #6c6969;
+}
+.catList:hover
+{
+
+    color: #000;
+}
+.catList h5
+{
+    padding-bottom: 8px;
+}
+
+.catList img{
+    transition: all 0.3s ease-out!important;
+    margin-left: 26px;
+    width: 80%!important;
+}
+.catList img:hover{
+    transform: scale(1.1)!important;
+    overflow: hidden!important;
+}
+.viewbarcrumb
+{
+    background-color: #025262!important;
+    color: #fff!important;
+}
+.anchor{
+    color: rgb(233, 227, 227);
+    text-decoration: none;
+}
+.anchor:hover{
+    color: #fff;
+}
+
+.checkout-form label{
+    font-size: 12px;
+    font-weight: 700;
+}
+.checkout-form input{
+    font-size: 12px;
+    padding: 5px;
+    font-weight: 400;
+}
+.orderView{
+    font-size: 15px;
+    font-weight: 400;
+}
+.orderView label{
+    font-weight: 800!important;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+.search-bar{
+    margin-left: 5%;
+}
+
+
+.footer-section{
+    height: 140px;
+    background: #f7f6f6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: center!important;
+    border-top: 1px solid rgb(180, 174, 174);
+}
+.footer-section ul{
+    list-style: none;
+}
+.footer-section ul li{
+    padding-left: 23px;
+    padding-right: 23px;
+}
+
+.footer-section ul li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+.social-media li{
+    text-align: center!important;
+}
+
+s
+{
+    color: red;
+}
+.socialList
+{
+    font-size: 22px;
+}
+.socialList:hover
+{
+    color: red;
+}
+.socialList1
+{
+    font-size: 22px;
+}
+.socialList1:hover
+{
+    color: #0088ff;
+}
+
+
+.page-header h1 {
+    font-weight: 200;
+    margin: 0 0 6px 0;
+}
+.page-header .breadcrumb {
+    background: transparent;
+    padding: 5px;
+    margin: 0;
+}
+
+.page-header .breadcrumb li {
+    font-weight: 200;
+    font-size: 12px;
+}
+.breadcrumb>li {
+    display: inline-block;
+}
+.contact-form {
+    margin-bottom: 40px;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.contact-details #map {
+    width: 100%;
+    height: 300px;
+}
+.contact-details .contact-short-info {
+    margin-top: 20px;
+}
+.contact-details .contact-short-info li {
+    margin-bottom: 6px;
+    color: #555;
+    font-weight: 300;
+    list-style: none;
+}
+.contact-details .contact-short-info li i {
+    margin-right: 10px;
+}
+.contact-form #contact-submit {
+    border: none;
+    padding: 15px 0;
+    width: 100%;
+    margin: 0;
+    background: #000;
+    color: #fff;
+    border-radius: 0;
+}

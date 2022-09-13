@@ -1,0 +1,43 @@
+
+.d-brand
+{
+
+    font-size: 25px;
+    font-family: "Jokerman Regular", cursive;
+    font-weight: 900;
+    text-shadow: 5px 3px 9px #9c27b0;
+    margin: 0;
+    padding: 0;
+}
+
+
+.cate-image
+{
+    width: 80px;
+    height: 80px;
+}
+.anchor{
+    color: rgb(233, 227, 227);
+    text-decoration: none;
+    font-weight: 700;
+}
+.anchor:hover{
+    color: #fff;
+}
+
+.userView{
+    font-size: 13px;
+    font-weight: 400;
+}
+.userView label{
+    font-weight: 800!important;
+    font-size: 15px;
+    margin-top: 10px;
+    color: #424040;
+    margin-bottom: 0px;
+}
+.developeby
+{
+    float: right;
+    font-weight: 600;
+}
